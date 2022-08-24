@@ -9,6 +9,7 @@ body{
 .mobile{
   text-align: center;
   text-transform: uppercase;
+  font-family: monospace; 
 }
 .header{
   text-align: center;
