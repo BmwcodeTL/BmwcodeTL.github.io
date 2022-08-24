@@ -1,0 +1,18 @@
+body{
+  background-color: lightgray;
+  color: black;
+  margin: 5% 20%;
+  padding: 1%;
+  font-family: monospace, Ariel, serif;
+  color: black;
+}
+.mobile{
+  text-align: center;
+  text-transform: uppercase;
+}
+.header{
+  text-align: center;
+  border-top: 2px solid dodgerblue;
+  border-bottom: 2px solid dodgerblue;
+  background-color: silver; 
+}
