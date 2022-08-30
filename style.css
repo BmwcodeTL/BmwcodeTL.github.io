@@ -72,9 +72,13 @@ th, td {
   text-align: left;
   width: 33.3333%;
 }
-
 .footer{
   text-align: center;
   text-transform: uppercase;
   font-family: 'Lato', sans-serif;
+}
+
+.link{
+  font-family: 'Lato', sans-serif;
+  text-align: center;
 }
