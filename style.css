@@ -4,9 +4,7 @@ body {
   padding: 0;
 }
 
-/* Navigation */
-
-.navigation {
+.motorwerks {
   box-sizing: border-box;
   background-color: #A9A9A9;
   overflow: auto;
